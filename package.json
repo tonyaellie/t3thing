@@ -1,0 +1,24 @@
+{
+  "name": "t3thing",
+  "description": "Create web application with the t3 stack",
+  "version": "0.0.2",
+  "main": "index.js",
+  "keywords": [
+    "create-t3-app",
+    "init.tips",
+    "next.js",
+    "t3-stack",
+    "tailwind",
+    "tRPC",
+    "typescript"
+  ],
+  "author": "tonyaellie",
+  "license": "MIT",
+  "bin": {
+    "t3thing": "index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tonyaellie/t3thing.git"
+  }
+}
