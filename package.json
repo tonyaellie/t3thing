@@ -1,7 +1,7 @@
 {
   "name": "t3thing",
   "description": "Create web application with the t3 stack",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "main": "index.js",
   "keywords": [
     "create-t3-app",
